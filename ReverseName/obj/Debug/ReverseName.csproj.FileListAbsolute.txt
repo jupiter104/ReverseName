@@ -1,0 +1,7 @@
+C:\Users\Debashis\source\repos\ReverseName\ReverseName\bin\Debug\ReverseName.exe.config
+C:\Users\Debashis\source\repos\ReverseName\ReverseName\bin\Debug\ReverseName.exe
+C:\Users\Debashis\source\repos\ReverseName\ReverseName\bin\Debug\ReverseName.pdb
+C:\Users\Debashis\source\repos\ReverseName\ReverseName\obj\Debug\ReverseName.csprojAssemblyReference.cache
+C:\Users\Debashis\source\repos\ReverseName\ReverseName\obj\Debug\ReverseName.csproj.CoreCompileInputs.cache
+C:\Users\Debashis\source\repos\ReverseName\ReverseName\obj\Debug\ReverseName.exe
+C:\Users\Debashis\source\repos\ReverseName\ReverseName\obj\Debug\ReverseName.pdb
